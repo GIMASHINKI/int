@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+}
+.prof{
+    /* color: white;
+    background-color: red;
+    border: 2px solid red; */
+    border-radius: 5px;
+}
+table{
+    padding:0;
+    margin:auto;
+    border-collapse: collapse;
+    width:50%;
+    height:85%;
+}
+td{
+    /* background-color: blue; */
+    border:solid #000 2px;
+    padding:10px;
+    text-align:center;
+    vertical-align:middle;
+  }
+.box{
+    border: 2px solid black;
+    margin: 0 auto;
+    width: 50%;
+    background-color: white;
+    border-radius: 5px;/* 角丸 */
+    padding: 10px;
+}
+.yoko{
+    float: left;
+    text-align: center;
+}
